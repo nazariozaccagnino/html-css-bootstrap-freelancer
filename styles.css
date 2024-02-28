@@ -1,4 +1,4 @@
-.naz-debug{
+loca.naz-debug{
     border: 1px solid red;
 }
 /* header section */
@@ -22,5 +22,16 @@
 }
 /* about section */
 #about h1{
+    text-transform: uppercase;
+}
+/* contact me section */
+#contact-me h1{
+    text-transform: uppercase;
+}
+#contact-me .naz-star-line{
+    border: 1px solid black;
+}
+/* location section */
+#location h2{
     text-transform: uppercase;
 }
