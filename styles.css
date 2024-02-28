@@ -1,3 +1,15 @@
 .naz-debug{
     border: 1px solid red;
 }
+/* header section */
+.navbar a{
+    text-transform: uppercase;
+}
+/* hero section */
+#hero h1, #hero h2{
+    text-transform: uppercase;
+}
+/* portfolio section */
+#portfolio h1{
+    text-transform: uppercase;
+}
